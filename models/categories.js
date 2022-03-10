@@ -25,6 +25,7 @@ Category.init({
         sequelize,
         //enforce the table and model name to be the same
         freezeTableName: true,
+        underscored: true,
         //assign name to the model
         modelName: 'category'
 

@@ -26,6 +26,12 @@ ProductTag.init(
                 key: 'id'
             }
         }
-    }
-)
+    }, {
+    sequelize,
 
+    freezeTableName: true,
+    underscored: true,
+    modelName: 'productTag',
+}
+)
+module.exports = ProductTag;

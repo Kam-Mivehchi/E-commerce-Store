@@ -20,7 +20,8 @@ Tag.init(
     {
         sequelize,
         freezeTableName: true,
-        modelName: 'tags',
+        underscored: true,
+        modelName: 'tag',
     }
 )
 module.export = Tag;
