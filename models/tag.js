@@ -1,6 +1,6 @@
+const sequelize = require('../config/connection.js');
 const { Model, DataTypes } = require('sequelize');
 
-const sequelize = require('../config/connection.js');
 
 
 class Tag extends Model { }
@@ -19,8 +19,10 @@ Tag.init(
     },
     {
         sequelize,
+        timestamps: false,
         freezeTableName: true,
         underscored: true,
+
         modelName: 'tag',
     }
 )

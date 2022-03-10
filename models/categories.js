@@ -1,7 +1,7 @@
-const { Model, DataTypes } = require('sequelize');
-
 //external connection to sequalize db
 const sequelize = require('../config/connection.js')
+const { Model, DataTypes } = require('sequelize');
+
 
 
 class Category extends Model { }
@@ -23,6 +23,7 @@ Category.init({
 
         //additonal model objects are defined
         sequelize,
+        timestamps: false,
         //enforce the table and model name to be the same
         freezeTableName: true,
         underscored: true,
