@@ -28,7 +28,7 @@ Category.init({
         freezeTableName: true,
         underscored: true,
         //assign name to the model
-        modelName: 'category'
+        modelName: 'category',
 
     })
 
