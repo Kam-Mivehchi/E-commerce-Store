@@ -10,7 +10,7 @@
  <br>
  [License](#license)
  <br>
- [Walkthrough Video](#Walkthrough%20Video)
+ [Walkthrough Video](#Walkthrough-Video)
  <br>
  [Live Deployment](#Deployment)
  <br>
