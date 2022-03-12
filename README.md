@@ -89,6 +89,6 @@ Questions will happily be answered by:
 <br>
 Kamyar Mivehchi
 <br>
-[kammivehchi@gmail.com](mailto:kammivehchi@gmail.com)
+Email: [kammivehchi@gmail.com](mailto:kammivehchi@gmail.com)
 <br>
-[Github](https://github.com/Kam-Mivehchi)
+Linkedin: [Linkedin](https://www.linkedin.com/in/kamyar-mivehchi/)
