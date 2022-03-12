@@ -1,21 +1,6 @@
 # E-commerce-Store
 
-## Table of Contents
- [Description](#Description)
- <br>
- [Screenshots](#Screenshots)
- <br>
- [License](#license)
- <br>
- [Walkthrough Video](#Walkthrough)
- <br>
- [Live Deployment](#Deployment)
- <br>
- [Questions](#questions)
- 
- ![ecommBackEnd](https://user-images.githubusercontent.com/90432404/157997450-777aefa9-71ad-4a6f-affd-fbee0135afe4.gif)
- 
- ## Description
+## Description
  + E-commerce backend RESTful API
  + Established API routing for products, categories and tags
  + Utilizes Object Relationional Mapping to connect with database
@@ -37,6 +22,23 @@
      + Departments
      + Roles
      + Employees
+ 
+
+## Table of Contents
+ [Description](#Description)
+ <br>
+ [Screenshots](#Screenshots)
+ <br>
+ [License](#license)
+ <br>
+ [Walkthrough Video](#Walkthrough)
+ <br>
+ [Live Deployment](#Deployment)
+ <br>
+ [Questions](#questions)
+ 
+ ![ecommBackEnd](https://user-images.githubusercontent.com/90432404/157997450-777aefa9-71ad-4a6f-affd-fbee0135afe4.gif)
+ 
  
  ## WalkThrough Video
 
