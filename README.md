@@ -1,8 +1,5 @@
 # E-commerce-Store
 
-## Screenshots
-![ecommBackEnd](https://user-images.githubusercontent.com/90432404/157997450-777aefa9-71ad-4a6f-affd-fbee0135afe4.gif)
-
 ## Table of Contents
  [Description](#Description)
  <br>
@@ -15,6 +12,11 @@
  [Live Deployment](#Deployment)
  <br>
  [Questions](#questions)
+ 
+## Screenshots
+![ecommBackEnd](https://user-images.githubusercontent.com/90432404/157997450-777aefa9-71ad-4a6f-affd-fbee0135afe4.gif)
+
+
  
  
  
