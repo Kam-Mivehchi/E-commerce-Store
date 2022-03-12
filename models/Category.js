@@ -1,6 +1,6 @@
 //external connection to sequalize db
-const sequelize = require('../config/connection.js')
 const { Model, DataTypes } = require('sequelize');
+const sequelize = require('../config/connection')
 
 
 

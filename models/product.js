@@ -1,5 +1,5 @@
-const sequelize = require('../config/connection.js');
 const { Model, DataTypes } = require('sequelize');
+const sequelize = require('../config/connection');
 
 
 
@@ -46,7 +46,6 @@ Product.init(
         timestamps: false,
         freezeTableName: true,
         underscored: true,
-
         modelName: 'product',
     }
 
