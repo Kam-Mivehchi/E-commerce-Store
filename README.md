@@ -1,13 +1,17 @@
 # E-commerce-Store
 
 ## Table of Contents
-[Description](#Description)
+ [Description](#Description)
+ <br>
+ [Screenshots](#Screenshots)
  <br>
  [License](#license)
  <br>
-[Live Deployment](#Deployment)
+ [Walkthrough Video](#Walkthrough)
  <br>
-[Questions](#questions)
+ [Live Deployment](#Deployment)
+ <br>
+ [Questions](#questions)
  
  ![ecommBackEnd](https://user-images.githubusercontent.com/90432404/157997450-777aefa9-71ad-4a6f-affd-fbee0135afe4.gif)
  
@@ -37,18 +41,12 @@
  ## WalkThrough Video
 
 
-
-
+https://user-images.githubusercontent.com/90432404/157998209-28e5ae28-1950-4bf6-9679-70c057e927c9.mp4
 
 
 
 ## License 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-
-
-
-
 
 
 ## Deployment
