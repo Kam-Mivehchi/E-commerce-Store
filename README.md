@@ -41,7 +41,7 @@
      + Roles
      + Employees
  
- ## WalkThrough Video
+ ## Walkthrough Video
 
 
 https://user-images.githubusercontent.com/90432404/157998209-28e5ae28-1950-4bf6-9679-70c057e927c9.mp4
