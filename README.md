@@ -91,4 +91,4 @@ Kamyar Mivehchi
 <br>
 Email: [kammivehchi@gmail.com](mailto:kammivehchi@gmail.com)
 <br>
-Linkedin: [Linkedin](https://www.linkedin.com/in/kamyar-mivehchi/)
+Connect with me: https://www.linkedin.com/in/kamyar-mivehchi/
